@@ -15,6 +15,10 @@ Two commits in the preserved history list **Bryan de Holanda** alongside other c
 
 The repository's historical [contribution guide](../HACKING) explicitly instructs multi-author patches to list authors with `Signed-off-by` lines. These commits use that convention. They document collaborative participation, not sole authorship of the patches or ownership of the wider Analizo codebase.
 
+### Historical working branch
+
+The preserved [`_csv_output_` branch](https://github.com/bryanholanda/analizo/tree/_csv_output_) also contains commits authored as **BryanFernandes**, including [CSV output refactoring](https://github.com/bryanholanda/analizo/commit/9004508105945df4ae02f49ad0afbd545e7350d5) and [metadata handling and test fixes](https://github.com/bryanholanda/analizo/commit/6b3851f9021bb00f4253c4cae98df34c7b0c4fa1). These working commits provide additional context for the collaborative contribution; the branch is retained as historical work, not presented as a current release.
+
 ## Explore the preserved work
 
 - [`CSV.pm`](../lib/Analizo/Batch/Output/CSV.pm) — batch CSV output implementation.
